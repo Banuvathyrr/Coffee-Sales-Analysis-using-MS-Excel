@@ -1,2 +1,2 @@
-# Coffee-Sales-Analysis-using-MS-Excel
+# Coffee-Sales-Analysis-Using-MS-Excel
 Coffee sales analysis
