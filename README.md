@@ -30,6 +30,7 @@ The dataset contains a single CSV file with 3 sheets that includes one table for
 -  Formatted the Date column to the **'dd-mmm-yyyy'** format using Excel's **Custom date formatting**.  
 -  Updated the Size column to display values with the unit **"kg"** using Excel's **Custom number formatting**.
 -  Utilized multiple **IF** conditions to update the **Coffee Type Name** and **Roast Type Name** columns. By using **nested IF statements** in Excel, the project ensures that each code in the Coffee Type and Roast Type columns is accurately translated into its corresponding descriptive name, enhancing data clarity and usability.
+-  Checked for duplicate rows.
 
   
 ### Exploratory Data Analysis
