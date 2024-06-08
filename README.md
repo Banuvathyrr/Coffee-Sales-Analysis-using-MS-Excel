@@ -27,7 +27,10 @@ The dataset contains a single CSV file with 3 sheets that includes one table for
 - **VLOOKUP** function in Excel used to update the Customer Name, Email, and Country columns in the orders table. By linking the orders table with the customer table through the common Email field, VLOOKUP efficiently fetches and populates the relevant customer information.
 - **INDEX and MATCH** functions in Excel used to update the Coffee Type, Roast Type, and Size columns in the orders table. By leveraging these functions, the project dynamically retrieves and populates the corresponding product details from the product table based on the Product ID
 -  Sales column calculated by multiplying the Unit Price with Quantity Sold for each order.
-- 
+-  Formatted the Date column to the **'dd-mmm-yyyy'** format using Excel's **Custom date formatting**.  
+-  Updated the Size column to display values with the unit **"kg"** using Excel's **Custom number formatting**.
+
+  
 ### Exploratory Data Analysis
 
 
