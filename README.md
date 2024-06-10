@@ -49,17 +49,7 @@ The dataset contains a single CSV file with 3 sheets that includes one table for
 
 ```
 ```
-3. SELECT
-	*,
-	CASE 
-		WHEN promo_type = '50% OFF' THEN base_price* 0.50
-        WHEN promo_type = '25% OFF' THEN base_price* 0.75
-        WHEN promo_type = '33% OFF' THEN base_price* 0.67
-        WHEN promo_type = '500 Cashback' THEN base_price - 500
-        ELSE base_price
-	END AS base_price_after_promo
-FROM 
-	fact_events;
+3. INDEX(products!$A$1:$G$49,MATCH(orders!$D2,products!$A$1:$A$49,0),MATCH(orders!L$1,products!$A$1:$G$1,0))
 ```
 
 ### Results/ Findings
