@@ -32,11 +32,6 @@ The dataset contains a single CSV file with 3 sheets that includes one table for
 -  Utilized multiple **IF** conditions to update the **Coffee Type Name** and **Roast Type Name** columns. By using **nested IF statements** in Excel, the project ensures that each code in the Coffee Type and Roast Type columns is accurately translated into its corresponding descriptive name, enhancing data clarity and usability.
 -  Checked for duplicate rows.
 
-  
-### Exploratory Data Analysis
-
-
-### Following Measures and Columns were created
 
 
 ### Data Analysis
@@ -53,28 +48,18 @@ The dataset contains a single CSV file with 3 sheets that includes one table for
 ```
 
 ### Results/ Findings
-- During the **Diwali campaign**, the **500 cashback** promotional offer resulted in significant **revenue**. Conversely, during the **Sankranti campaign**, the **BOGOF promotion** demonstrated notable success.
-- In the case of the BOGOF promotion, it was observed that as the incremental units sold increased, the corresponding incremental revenue did not exhibit a proportional increase. 
-- Instead, the relationship between incremental sold units and incremental revenue appeared to follow a linear trend with a lesser slope. 
-- This suggests that while sales volume increased, the generated revenue did not rise at an equivalent rate, indicating potential factors, such as the type of product, promo-type influencing revenue generation beyond solely increasing sales volume.
-- Although the product category remained the same (Combo) for both the Diwali and Sankranti campaigns in the case of the 500 cashback promotion, **the total revenue yielded during the Diwali campaign was significantly higher compared to the Sankranti campaign**. 
-- This disparity may be attributed to the **timing** of the campaigns, as the Diwali campaign preceded the Sankranti campaign, allowing consumers to utilize the cashback promotion for purchasing combo sets during the Diwali campaign itself.
-- During the **Sankranti campaign**, there was a **surge in purchases of groceries, home appliances, and home care products, resulting in increased quantity sold**. However, this did not translate into significantly higher revenue, as these product categories typically do not yield substantial revenue.
+- 
 
 ### Recommendation
-- **Store Expansion Strategy**: Implementing a store expansion strategy by adding number of stores in each city can significantly enhance revenue generation. 
-- **Streamlining Promotional Strategies**: To optimize our campaign strategy and maximize revenue potential, we propose removing the 25% off, 33% off, and 50% off promotions for both campaigns. Our analysis demonstrates that these promotions have shown to be less effective compared to the Cashback and BOGOF promotions. By reallocating resources to focus on the more successful promotions, we aim to drive greater impact and ensure the highest possible return on investment.
-- **Strategic Expansion of BOGOF Promotion**: For the Diwali campaign, we propose extending the BOGOF (Buy One, Get One Free) promotion strategy to include groceries. This strategic adjustment aims to capitalize on the high demand for groceries during the festive period. 
-- **Introducing 500 Cashback Offer**: During the Sankranti campaign, we propose introducing the 500 cashback promotional offer to a new set of product categories, apart from combo sets. Recognizing that customers may have already purchased combo sets during the Diwali campaign, this strategic adjustment aims to maintain consumer interest and incentivize purchases in different product categories.
+
 
 ### Dashboard 
-- Check the dashboard here: https://www.novypro.com/project/retail-mart-promotion-analysis-power-bi
+- Check the dashboard here: 
 
-### Video Presentation link:
-- Check for the presentation in google drive: https://drive.google.com/drive/folders/1F1y6BL5GIRh6MmGLdEedMCvBPxGwC36f
+
 
 ### Acknowledgements
-- This Project is a Codebasics Resume project challenge#9 (https://codebasics.io/challenge/codebasics-resume-project-challenge)
+- This dataset was downloaded from Mo Chen YouTube channel (https://www.youtube.com/watch?v=m13o5aqeCbM&t=3001s)
 
 
 
