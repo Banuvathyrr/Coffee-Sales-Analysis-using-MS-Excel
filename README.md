@@ -1,9 +1,9 @@
-# Coffee-Sales-Analysis-Using-MS-Excel
+<h1 align="center">Coffee-Sales-Analysis-Using-MS-Excel </h1>
 
-<h1 align="center">Coffee Sales Analysis</h1>
+
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Banuvathyrr/Coffee-Sales-Analysis-using-MS-Excel/assets/145739539/9313b73f-9775-4770-ae99-b191a36e0eb0">
 </p>
 
 
@@ -52,11 +52,13 @@ The dataset contains a single CSV file with 3 sheets that includes one table for
 - Analysis of the sales data revealed that the highest sales were recorded in the United States, followed by Ireland and the United Kingdom.
 - The top 5 customers by sales include Allis Willimore, Benn Drundrege, and Terri Farra, highlighting these individuals as key contributors to coffee sales revenue
 
-### Recommendation
 
 
 ### Dashboard 
 - Check the dashboard here: 
+<p align="center">
+  <img src="https://github.com/Banuvathyrr/Coffee-Sales-Analysis-using-MS-Excel/assets/145739539/99b6b5c1-e3b7-4b10-b767-1d64ce524a69">
+</p>
 
 
 
