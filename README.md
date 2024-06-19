@@ -48,7 +48,9 @@ The dataset contains a single CSV file with 3 sheets that includes one table for
 ```
 
 ### Results/ Findings
-- 
+- Total sales of all four variety of coffee increased in the year of 2022.  
+- Analysis of the sales data revealed that the highest sales were recorded in the United States, followed by Ireland and the United Kingdom.
+- The top 5 customers by sales include Allis Willimore, Benn Drundrege, and Terri Farra, highlighting these individuals as key contributors to coffee sales revenue
 
 ### Recommendation
 
